@@ -1,1 +1,1 @@
-My first Git project
+My first Git project to be pushed
